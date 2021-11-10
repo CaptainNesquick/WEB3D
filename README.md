@@ -1,7 +1,1 @@
-# Teaching
-
-This repository contains a list of projects for students I teach.
-
-## Projects
-
-TODO
+A repository meant to store my WEB3D homeworks
